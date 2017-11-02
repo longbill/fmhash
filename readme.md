@@ -5,3 +5,10 @@ Use `farmhash`'s fingerprint32 two times, then encode the result to base62 to ge
 
 `npm install fmhash`
 
+## Usage ##
+
+```javascript
+const fmhash = require('fmhash');
+
+console.log( fmhash('string or buffer') );
+```
