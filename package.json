@@ -1,0 +1,27 @@
+{
+  "name": "fmhash",
+  "version": "1.0.0",
+  "description": "farmhash with fingerprint64",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Chunlong",
+  "license": "MIT",
+  "dependencies": {
+    "base62": "^1.2.0",
+    "farmhash": "^2.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longbill/fmhash.git"
+  },
+  "keywords": [
+    "farmhash"
+  ],
+  "bugs": {
+    "url": "https://github.com/longbill/fmhash/issues"
+  },
+  "homepage": "https://github.com/longbill/fmhash#readme"
+}
