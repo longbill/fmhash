@@ -1,6 +1,6 @@
 {
   "name": "fmhash",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "farmhash with fingerprint64",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,6 @@
   "author": "Chunlong",
   "license": "MIT",
   "dependencies": {
-    "base62": "^1.2.0",
     "farmhash": "^2.0.4"
   },
   "devDependencies": {},
